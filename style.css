@@ -1,0 +1,79 @@
+.search-box {
+    background-color: #eee;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+.form {
+    background-color: #eee;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.button {
+    background-color: #eee;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.footer {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 0.1%;
+}
+
+.box {
+    background-color: rgb(126, 229, 218);
+    width: 36.6%;
+    height: 58px;
+    float: left;
+    margin-right: 0.2%;
+    padding-top: 1%;
+    padding-bottom: 0.5% ;
+    font-size: medium;
+}
+
+.box1 {
+    background-color: rgb(112, 204, 194);
+    width: 23%;
+    height: 58px;
+    float: left;
+    margin-right: 0.2%;
+    padding-top: 7px;
+    padding-bottom: 12px;
+    font-size: small;
+}
+
+.box2 {
+    background-color:rgb(98, 179, 170);
+    width: 40%;
+    height: 58px;
+    float: left;
+    padding-top: 3px;
+    padding-bottom: 16px;
+    font-size: small;
+}
+
+input[name="SubmitAction"] {
+    height: 20px;
+    width: 15%;
+    margin: 1px 0;
+    padding: 5 5px;
+}
+
+.end {
+    clear: both;
+    text-align: center;
+    padding-top: 25px;
+    font-size: small;
+}
